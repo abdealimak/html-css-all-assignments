@@ -1,40 +1,22 @@
-Digital Portfolio - Abdeali Makda
-A modern, responsive personal portfolio website featuring a glassmorphism design, interactive audio elements, and a dynamic video background.
+# Portfolio Website - Abdeali Makda
 
-🚀 Features
-Glassmorphic UI: Clean, frosted-glass effect using CSS backdrop filters.
+A sleek, one-page personal portfolio featuring a modern glassmorphism design and interactive media elements.
 
-Interactive Audio: A custom "Play My Introduction" button with HTML5 audio integration.
+## 🚀 Features
+* **Modern UI:** Uses backdrop filters for a "frosted glass" effect.
+* **Interactive Media:** Includes a background video and an audio introduction button.
+* **Responsive:** Fully optimized for mobile, tablet, and desktop views.
+* **Contact Form:** A styled interface for user inquiries.
 
-Video Background: Immersive full-screen background video with a gradient overlay for readability.
+## 🛠️ Built With
+* **HTML5** - Structure and media embedding.
+* **CSS3** - Custom animations, glassmorphism, and layout.
+* **Google Fonts** - 'Poppins' typeface.
 
-Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
+## 📁 File Structure
+* `resume.html` - Main project file.
+* `style.css` - Custom styling.
+* `/images`, `/videos`, `/audios` - Media assets.
 
-Contact Form: A styled functional-ready form for user inquiries.
-
-LinkedIn Integration: Interactive profile image with hover effects linking to LinkedIn.
-
-🛠️ Technologies Used
-HTML5: Semantic structure and media (audio/video) integration.
-
-CSS3: Custom animations, Flexbox/Grid, and advanced hover effects.
-
-Google Fonts: Using the 'Poppins' typeface for a modern look.
-
-📂 Project Structure
-resume.html - The main structure of the site.
-
-style.css - Custom styling and animations.
-
-images/ - Contains profile pictures and icons.
-
-videos/ - Contains the background video assets.
-
-audios/ - Contains the introduction audio file.
-
-📖 How to Use
-Clone or download the repository.
-
-Ensure your assets (images, videos, audios) are placed in their respective folders.
-
-Open resume.html in any modern web browser to view the site.
+## ⚙️ Setup
+Simply open `resume.html` in any web browser to view the project.
